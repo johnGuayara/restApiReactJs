@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Quicksand', sans-serif;
+    padding-right: 10px;
+}
